@@ -1,0 +1,2 @@
+# Word
+Words for wordle
